@@ -22,6 +22,7 @@ echo true + 10;
 echo true + 100;
 echo true + 1000;
 echo true + 10000;
+echo true + 10000;
 
 
 ?>
