@@ -1,1 +1,1 @@
-test file add new file 
+<?php echo 'This is good example';?>
