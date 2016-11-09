@@ -1,1 +1,1 @@
-<?php echo 'This is good    example';?>
+<?php echo 'This is good example of testing the code';?>
